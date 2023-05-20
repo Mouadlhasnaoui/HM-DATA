@@ -8,6 +8,7 @@ query_string_parameters ={'sort':'stock',
                         'image':'model',
                         'offset':'36',
                         'page-size':'160'}
+
 headers = {
 'accept': 'application/json, text/javascript, */*; q=0.01',
 'accept-encoding': 'gzip, deflate, br',
@@ -40,3 +41,4 @@ df = pd.DataFrame(products, columns=['Product Name', 'Product Price', 'Product c
 print(df)
 df.to_excel('HM.xlsx', index=False)
 print('data saved ')
+#test_the_commit

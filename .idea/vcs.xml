@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HM-DATA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HM-DATA/HM-DATA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HM-DATA/OpenScraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HM-DATA/OpenScraper/OpenScraper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenScraper" vcs="Git" />
   </component>
 </project>
